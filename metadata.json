@@ -1,0 +1,5 @@
+{
+  "name": "MediCore AIS Orchestrator",
+  "description": "Sistem operasi rumah sakit yang menggunakan arsitektur AI multi-agen untuk merutekan dan menangani manajemen pasien, penjadwalan, rekam medis, dan penagihan.",
+  "requestFramePermissions": []
+}
